@@ -9,8 +9,9 @@ I created this page a long time ago, but today I modified it (create a new page 
 <br>
 Please let me know what you think of my Instagram account https://www.instagram.com/jamalomarderawi/
 <br>
-
+<br>
 thank you. 
 <br>
-JOAD.
+<br>
+<b>JOAD.</b>
 <br>
