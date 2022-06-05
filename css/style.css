@@ -716,7 +716,7 @@ footer ul li a:hover {
     flex-direction: column !important;
   }
   footer ul li a {
-    font-size: 12px;
+    font-size: 10px;
     padding: 0 2px;
   }
 }
